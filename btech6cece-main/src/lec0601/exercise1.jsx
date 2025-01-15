@@ -57,3 +57,4 @@ export default TableDisp;
 // 4. Create a react pure functional component
 // that will take text input and print total number of
 // characters
+
