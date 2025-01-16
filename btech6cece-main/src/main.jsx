@@ -3,14 +3,16 @@ import TableDisp from "./lec0601/exercise1";
 import Email from "./lec0601/email";
 import TextVisibilityToggler from "./lec0601/toggle";
 import CharacterCounter from "./lec0601/character";
+import ApiTesting from "./lec0201/useEffect";
 
 
 createRoot(document.getElementById("root")).render(
   <div>
-    <TableDisp />
+    {/* <TableDisp />
     <Email />
     <TextVisibilityToggler />
-    <CharacterCounter />
+    <CharacterCounter /> */}
+    <ApiTesting />
   </div>
 );
 
