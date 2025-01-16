@@ -66,4 +66,4 @@ export default ApiTesting;
 
 
 
-//create the functional componenet that will accept array of strings as an arhument convert array into unordered list fetch  data function should return array of string
+//create the functional componenet that will accept array of strings as an arhument convert array into unordered list fetch  data function should return array of string solve
